@@ -31,4 +31,7 @@ collections_config:
     new_preview_url:
     schemas:
     schema_key:
+_inputs:
+  src:
+    type: image
 timezone: Etc/UTC

@@ -31,7 +31,10 @@ collections_config:
     new_preview_url:
     schemas:
     schema_key:
+  site_data:
+    path: src/data
 _inputs:
   src:
     type: image
+    cascade: true
 timezone: Etc/UTC
